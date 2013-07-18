@@ -1,5 +1,4 @@
 #code from http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-python
-#test2
 
 
 import csv as csv 
